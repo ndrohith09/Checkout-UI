@@ -9,7 +9,7 @@ On pressing the `PLACE ORDER` button the promotion modal opens up.
 
 ![ui2](https://firebasestorage.googleapis.com/v0/b/react-firechat-ae4bf.appspot.com/o/ui2.png?alt=media&token=bc85063b-68f8-4f07-92d6-f540f0cc9640)
 
-**Demo Link :** [http://ui-design.garudatechnology.com/](http://ui-design.garudatechnology.com/)
+**Demo Link :** [https://ui-design.garudatechnology.com/](https://ui-design.garudatechnology.com/)
 
 # How to run
 
