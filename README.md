@@ -11,13 +11,11 @@ On pressing the `PLACE ORDER` button the promotion modal opens up.
 
 **Demo Link :** [http://ui-design.garudatechnology.com/](http://ui-design.garudatechnology.com/)
 
-<br />
-
 # How to run
 
 ``` bash
-git clone 
-cd dir
+git clone https://github.com/ndrohith09/ui-design.git
+cd ui-design
 yarn install
 yarn start
 ```
