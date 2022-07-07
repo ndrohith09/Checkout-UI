@@ -1,70 +1,23 @@
-# Getting Started with Create React App
+# UI Design 
+The project was made using react and bootstrap. For icons [Sketch-icons](https://sketch-icons.netlify.app/) and Ionicons were used. 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Outputs 
 
-## Available Scripts
+![ui1](https://firebasestorage.googleapis.com/v0/b/react-firechat-ae4bf.appspot.com/o/ui1.png?alt=media&token=47cad272-ec5c-4c84-9376-8214195cae7a)
 
-In the project directory, you can run:
+On pressing the `PLACE ORDER` button the promotion modal opens up.
 
-### `yarn start`
+![ui2](https://firebasestorage.googleapis.com/v0/b/react-firechat-ae4bf.appspot.com/o/ui2.png?alt=media&token=bc85063b-68f8-4f07-92d6-f540f0cc9640)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+**Demo Link :** [http://ui-design.garudatechnology.com/](http://ui-design.garudatechnology.com/)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+<br />
 
-### `yarn test`
+# How to run
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `yarn build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+``` bash
+git clone 
+cd dir
+yarn install
+yarn start
+```
